@@ -9,20 +9,27 @@ Software engineer and systems architect, experienced in building and scaling inf
 
 #### Languages and Frameworks
 - Rust, Typescript, React, C#, Vue, Python, GraphQL, Node
+
 #### Infrastructure and DevOps
 - Kubernetes, K3s, Helm, Docker, Terraform, MetalLB, BIND9, NGINX, GitHub Actions, Jenkins, ArgoCD, CircleCi
+
 #### Cloud
 - AWS (EC2, ECS, ECR, IAM, S3, CloudFront, CodeBuild, CodePipeline, Lambda, SNS, SQS, Secrets Manager, Parameter Store, RDS, VPC, CloudWatch)
 - GCP (Cloud Run, OAuth, Firebase, Service Accounts)
 - Azure (ACR, ACI)
+
 #### Data
 - PostgreSQL, DynamoDb, MongoDb, SQL Server
+
 #### Networking
 - Cloudflare, Route53
+
 #### Automation, Configuration, and Scripting
 - JSON, YAML, Git, Bash
+
 #### Observability
 - Splunk, Wavefront, New Relic, Opsgenie, Sentry, PagerDuty
+
 #### Testing
 - Jest, Artillery, XUnit
 
